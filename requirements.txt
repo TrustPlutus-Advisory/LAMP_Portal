@@ -18,7 +18,7 @@ kaleido==0.2.1
 reportlab==4.2.0
 
 # PowerPoint Generation
-python-pptx==0.5.7
+python-pptx==1.0.2
 
 # Excel File Handling (included with pandas, but specifying for clarity)
 openpyxl==3.2.0b1
@@ -34,3 +34,4 @@ xlrd==2.0.1
 # io
 
 # json
+
